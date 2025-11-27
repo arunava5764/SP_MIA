@@ -39,7 +39,7 @@ After downloading:
 ## 🛠️ System Requirements
 
 ### Hardware
-- NVIDIA **Ampere** GPU (e.g., A100, RTX 3080/3090/3070)
+- NVIDIA **Ampere** GPU (e.g., A100, RTX 3080/3090/3070) and post Ampere Generation GPUs
 - CUPTI compatible NVIDIA driver
 
 ### Software
